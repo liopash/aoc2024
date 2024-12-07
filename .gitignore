@@ -1,5 +1,6 @@
 # aoc ignore input files
 input.txt
+input_rules.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
